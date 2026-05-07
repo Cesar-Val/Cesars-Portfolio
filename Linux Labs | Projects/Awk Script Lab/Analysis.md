@@ -5,11 +5,13 @@ This lab was performed via **PuTTY** by connecting to a remote **SSH server**. I
 ---
 
 ![User Count](./awk1.JPG)
+
 **Description:** Using `awk` with the `NR` variable to count every user account on the remote server's `/etc/passwd` file.
 
 ---
 
 ![Troubleshooting Output](./awk2.JPG)
+
 **Description:** Executing a script file (`check.uid`) on the remote host. This screenshot captures the troubleshooting process where I used **vim** to fix a syntax error in the script before successfully generating the final report.
 
 ---
