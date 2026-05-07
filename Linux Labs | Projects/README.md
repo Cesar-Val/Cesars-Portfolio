@@ -10,4 +10,4 @@ Documentation of my Linux coursework at MATC and hands-on projects involving sys
 ### Data Processing with Awk
 * **Goal:** Created a custom script to parse and filter system data efficiently using the `awk` command.
 * **Key Skills:** Pattern matching, text processing, and command-line automation.
-* **Documentation:** [Link to photos/scripts once uploaded]
+* **Documentation:** [Remote Server Awk Lab](./Awk%20Script%20Lab/Analysis.md)
