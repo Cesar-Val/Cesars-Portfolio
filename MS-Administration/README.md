@@ -7,4 +7,5 @@ Documentation of my work with Windows Server environments and Active Directory m
 * **Troubleshooting:** Identifying and resolving hardware and software status warnings.
 
 ## 🛠️ Labs & Projects
-
+* **[Windows Print Server Lab](./Printing-Lab/Analysis.md)** - Configuring printer pooling, drivers, and security permissions.
+* **[Active Directory OU Structure]** - (Placeholder for your AD screenshots)
