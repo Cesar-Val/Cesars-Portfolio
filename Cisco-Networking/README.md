@@ -8,3 +8,8 @@ This folder includes a mix of academic simulations and real-world configurations
 * **[DHCPv4 Implementation](./CesarV7.2.10-packet-tracer---configure-dhcpv4.pka)**
   * **Goal:** Configure a Cisco router as a DHCP server to automatically assign IP addresses to multiple subnets.
   * **Key Skills:** DHCP pools, excluded addresses, and relay agents.
+
+* **[Inter-VLAN Routing (Router-on-a-Stick)](./CesarV4.2.7-packet-tracer---configure-router-on-a-stick-inter-vlan-routing.pka)**
+  * **Goal:** Enable communication between logically segmented networks (VLANs) using a single physical router interface with subinterfaces.
+  * **Key Skills:** 802.1Q Encapsulation, Subinterface Configuration, and VLAN Tagging.
+  * **Security Perspective:** Foundation of network segmentation; prevents "flat" network vulnerabilities by ensuring inter-department traffic follows defined Layer 3 paths where security policies can be applied.
