@@ -12,3 +12,7 @@ This folder includes a mix of academic simulations and real-world configurations
 * **[Inter-VLAN Routing (Router-on-a-Stick)](./CesarV4.2.7-packet-tracer---configure-router-on-a-stick-inter-vlan-routing.pka)**
   * **Goal:** Enable communication between logically segmented networks (VLANs) using a single physical router interface with subinterfaces.
   * **Key Skills:** 802.1Q Encapsulation, Subinterface Configuration, and VLAN Tagging.
+
+* **[Switch Security Configuration](./CesarV11.6.1-packet-tracer---switch-security-configuration.pka)**
+    * **Goal:** Mitigate common Layer 2 attacks by implementing robust switch security measures, including port security, DHCP snooping, and disabling unused ports.
+    * **Key Skills:** MAC Address Limiting (Sticky MACs), DHCP Snooping, Port-Security Violation Modes (Shutdown/Restrict), and VLAN security.
